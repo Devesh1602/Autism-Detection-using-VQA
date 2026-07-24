@@ -1,0 +1,12 @@
+question,yes,no,entropy,weight
+ Does the child have reduced eye contact?,201,253,0.9905159667520931,0.00948403324790692
+Are cheeks puffed or raised with happiness?,398,55,0.5334083366903222,0.46659166330967783
+Are the inner portions of the brows furrowed horizontally?,218,235,0.9989838730613678,0.001016126938632178
+Are their lips parted?,332,122,0.8396254776216393,0.1603745223783607
+"Are there any noticeable lip movements, (such as lip pursing, biting, or smacking, exhibited by the child in the video) ?",321,132,0.8705109726696896,0.12948902733031042
+Are there signs of Unusual/ excessive smiling?,327,127,0.8550904098505228,0.14490959014947724
+Are there signs of jaw clenching or teeth grinding?,331,122,0.8404809556403605,0.15951904435963948
+Does the child have atypical gaze patterns?,200,253,0.9901031951177464,0.00989680488225364
+Does the lip corner depressor show discomfort or stress?,367,86,0.7011480928103863,0.29885190718961374
+Is the face asymmetric(FA)?,207,247,0.9943931868420699,0.005606813157930102
+Is there absence of the inner brow raiser?,252,201,0.9908375918145715,0.009162408185428461
