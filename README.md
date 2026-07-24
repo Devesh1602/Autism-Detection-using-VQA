@@ -2,11 +2,6 @@
 
 The purpose of this project is to create a goal-oriented Visual Question Answering (VQA) system that helps assist in the diagnosis of Autism Spectrum Disorder (ASD) that could be used in the early stages of diagnosis.  Using a unique VQA architecture, the system analyses the video of patients with a specific disorder, extracts characteristics, and correctly predicts the extent of, the existence of the disorder.
 
-## Research Outcomes
-* In collaboration with Bangalore Medical College and Research Institute (BMCRI) and Academy for Severe Handicaps and Autism (ASHA).
-* Book Chapter “Advancements in AI for Mental Health: Exploring ASD, ADHD  & Schizophrenia, Video Datasets and Future Directions” ACCEPTED in the book titled “Computational Intelligence for Oncology and Neurological Disorders: Current Practices and Future Directions” by Taylor and Francis.
-* Journal Publication in progress.
-
 ## Extracting Features
 Extraction of individual frames. The frames were passed through a facial features extraction library called open-face and other tools. The acquired features include Action units (AUs), facial coordinates and emotions. 
 
